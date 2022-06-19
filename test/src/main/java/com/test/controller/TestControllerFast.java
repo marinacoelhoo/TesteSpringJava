@@ -58,12 +58,9 @@ public class TestControllerFast {
 		amarok.setModelo("AA");
 
 		String mensagem   = "A cor do meu carro virtus é: "+ virtus.getCor();
-		System.out.println(mensagem);
+		System.out.println(mensagem + "Hello World Heroku");
 		
-		
-		
-		
-		
+
 		
 		return mensagem;
 //		
